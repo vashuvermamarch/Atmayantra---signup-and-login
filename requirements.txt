@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+psycopg2-binary
+python-multipart   # ✅ Add this line

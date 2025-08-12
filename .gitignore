@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code files
+.vscode/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Python-specific
+*.log
+*.sqlite3
+
+# Uvicorn log and PID files
+*.pid
+*.log
+
+# Pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# PyCharm
+.idea/
+
+# PyInstaller
+dist/
+build/
+
+# Database backups
+*.bak
